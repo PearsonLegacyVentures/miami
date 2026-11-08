@@ -44,3 +44,7 @@ Only genuine Tranquilitas massage images are used to depict massage. The destina
 /journal/hotel-and-villa-massage-guide/
 /journal/couples-wellness-planning-guide/
 /journal/private-massage-guest-checklist/
+
+## Independent Cloudflare Pages deployment
+
+Cloudflare Pages project: `miami` (`https://miami-7zr.pages.dev/`). The `main` branch automatically deploys to this site's own project. The public domain `miami.tranquilitasspa.com` is transferred only after the independent build and DNS are verified. The former shared `grenada` Pages project remains a temporary fallback during the transfer.
